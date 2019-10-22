@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6446b3a9-74c4-4e21-983a-04e3d3022602/resourceGroups/brandvat/providers/Microsoft.Web/sites/brandvat",
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
